@@ -1,0 +1,556 @@
+TextureFiltr_Mean
+./Out3x3_src.mfd - 3.35007
+./Out5x5_src.mfd - 8.98178
+./Out7x7_src.mfd - 14.8355
+./Out9x9_src.mfd - 24.354
+./Out11x11_src.mfd - 37.4519
+./Out13x13_src.mfd - 50.8949
+./Out15x15_src.mfd - 64.4176
+./Out17x17_src.mfd - 80.8261
+./Out19x19_src.mfd - 101.117
+./Out21x21_src.mfd - 119.784
+
+TextureFiltr_Mean_Omp
+1
+TextureFiltr_Mean
+./Out3x3_new.mfd - 1.29253
+./Out5x5_new.mfd - 2.55481
+./Out7x7_new.mfd - 4.81473
+./Out9x9_new.mfd - 7.62174
+./Out11x11_new.mfd - 11.0128
+./Out13x13_new.mfd - 15.0071
+./Out15x15_new.mfd - 19.928
+./Out17x17_new.mfd - 25.1766
+./Out19x19_new.mfd - 32.4774
+./Out21x21_new.mfd - 40.5078
+
+FUNC
+1
+./Out3x3_new.mfd - 1.31966
+./Out5x5_new.mfd - 2.60901
+./Out7x7_new.mfd - 4.83632
+./Out9x9_new.mfd - 8.52629
+./Out11x11_new.mfd - 11.0482
+./Out13x13_new.mfd - 15.014
+./Out15x15_new.mfd - 20.7788
+./Out17x17_new.mfd - 28.0463
+./Out19x19_new.mfd - 34.5439
+./Out21x21_new.mfd - 41.2882
+
+TextureFiltr_Mean_Omp
+1
+./Out3x3_new.mfd - 1.34459
+./Out5x5_new.mfd - 2.65396
+./Out7x7_new.mfd - 5.07137
+./Out9x9_new.mfd - 7.99709
+./Out11x11_new.mfd - 11.3403
+./Out13x13_new.mfd - 15.6493
+./Out15x15_new.mfd - 20.6793
+./Out17x17_new.mfd - 26.8282
+./Out19x19_new.mfd - 34.2858
+./Out21x21_new.mfd - 39.5061
+2
+./Out3x3_new.mfd - 3.62563
+./Out5x5_new.mfd - 3.89691
+./Out7x7_new.mfd - 5.16271
+./Out9x9_new.mfd - 7.17013
+./Out11x11_new.mfd - 8.89689
+./Out13x13_new.mfd - 10.8119
+./Out15x15_new.mfd - 13.1787
+./Out17x17_new.mfd - 18.0702
+./Out19x19_new.mfd - 23.7479
+./Out21x21_new.mfd - 28.1172
+4
+./Out3x3_new.mfd - 4.14964
+./Out5x5_new.mfd - 4.66879
+./Out7x7_new.mfd - 4.80271
+./Out9x9_new.mfd - 5.39663
+./Out11x11_new.mfd - 6.83303
+./Out13x13_new.mfd - 8.70828
+./Out15x15_new.mfd - 9.46034
+./Out17x17_new.mfd - 11.4855
+./Out19x19_new.mfd - 13.7852
+./Out21x21_new.mfd - 19.7624
+8
+./Out3x3_new.mfd - 2.05785
+./Out5x5_new.mfd - 2.64637
+./Out7x7_new.mfd - 3.39934
+./Out9x9_new.mfd - 4.02672
+./Out11x11_new.mfd - 4.74735
+./Out13x13_new.mfd - 6.17247
+./Out15x15_new.mfd - 7.8237
+./Out17x17_new.mfd - 9.8663
+./Out19x19_new.mfd - 11.5602
+./Out21x21_new.mfd - 13.8759
+
+TextureFiltr_Mean_V2
+1
+./Out3x3_new.mfd - 1.32956
+./Out5x5_new.mfd - 2.30443
+./Out7x7_new.mfd - 3.84062
+./Out9x9_new.mfd - 6.12437
+./Out11x11_new.mfd - 8.7804
+./Out13x13_new.mfd - 13.249
+./Out15x15_new.mfd - 16.9882
+./Out17x17_new.mfd - 21.2181
+./Out19x19_new.mfd - 26.1855
+./Out21x21_new.mfd - 31.2304
+
+TextureFiltr_Mean_V2_1
+1
+./Out3x3_new.mfd - 3.57689
+./Out5x5_new.mfd - 5.61152
+./Out7x7_new.mfd - 6.29128
+./Out9x9_new.mfd - 8.07182
+./Out11x11_new.mfd - 10.7403
+./Out13x13_new.mfd - 13.4396
+./Out15x15_new.mfd - 16.4748
+./Out17x17_new.mfd - 19.7622
+./Out19x19_new.mfd - 23.3778
+./Out21x21_new.mfd - 28.9861
+
+TextureFiltr_Mean_V3
+1
+./Out3x3_new.mfd - 1.44415
+./Out5x5_new.mfd - 2.59691
+./Out7x7_new.mfd - 4.19927
+./Out9x9_new.mfd - 6.82206
+./Out11x11_new.mfd - 9.58006
+./Out13x13_new.mfd - 12.9022
+./Out15x15_new.mfd - 18.6419
+./Out17x17_new.mfd - 22.918
+./Out19x19_new.mfd - 27.5972
+./Out21x21_new.mfd - 32.6475
+
+TextureFiltr_Mean_V4
+1
+./Out3x3_new.mfd - 0.599175
+./Out5x5_new.mfd - 0.935725
+./Out7x7_new.mfd - 1.75471
+./Out9x9_new.mfd - 2.35892
+./Out11x11_new.mfd - 3.10209
+./Out13x13_new.mfd - 4.17218
+./Out15x15_new.mfd - 5.12981
+./Out17x17_new.mfd - 8.02371
+./Out19x19_new.mfd - 9.71608
+./Out21x21_new.mfd - 10.0398
+
+TextureFiltr_Mean_V5
+1
+./Out3x3_new.mfd - 0.498957
+./Out5x5_new.mfd - 0.991517
+./Out7x7_new.mfd - 1.79285
+./Out9x9_new.mfd - 2.48542
+./Out11x11_new.mfd - 3.39213
+./Out13x13_new.mfd - 4.73252
+./Out15x15_new.mfd - 6.53492
+./Out17x17_new.mfd - 8.12861
+./Out19x19_new.mfd - 9.81777
+./Out21x21_new.mfd - 9.60421
+
+TextureFiltr_Mean_V6
+1
+./Out3x3_new.mfd - 0.409515
+./Out5x5_new.mfd - 0.520366
+./Out7x7_new.mfd - 0.631563
+./Out9x9_new.mfd - 0.731047
+./Out11x11_new.mfd - 0.82917
+./Out13x13_new.mfd - 0.952855
+./Out15x15_new.mfd - 1.11482
+./Out17x17_new.mfd - 1.19194
+./Out19x19_new.mfd - 1.27648
+./Out21x21_new.mfd - 1.4037
+
+TextureFiltr_Mean_V7
+1
+./Out3x3_new.mfd - 0.357751
+./Out5x5_new.mfd - 0.460828
+./Out7x7_new.mfd - 0.547376
+./Out9x9_new.mfd - 0.481919
+./Out11x11_new.mfd - 0.581509
+./Out13x13_new.mfd - 0.668164
+./Out15x15_new.mfd - 0.75294
+./Out17x17_new.mfd - 0.721876
+./Out19x19_new.mfd - 0.79332
+./Out21x21_new.mfd - 0.890211
+
+TextureFiltr_Mean_V8
+1
+./Out3x3_new.mfd - 0.352407
+./Out5x5_new.mfd - 0.429553
+./Out7x7_new.mfd - 0.515566
+./Out9x9_new.mfd - 0.441482
+./Out11x11_new.mfd - 0.530356
+./Out13x13_new.mfd - 0.611588
+./Out15x15_new.mfd - 0.685402
+./Out17x17_new.mfd - 0.58031
+./Out19x19_new.mfd - 0.666238
+./Out21x21_new.mfd - 0.751065
+
+TextureFiltr_Mean_V8_3
+1
+./Out7x7_new.mfd - 0.336077
+Percent wrong: 0.994%
+
+TextureFiltr_Mean_V8_3
+1
+./Out3x3_new.mfd - 0.304019
+
+TextureFiltr_Mean_V8_3
+1
+./Out3x3_new.mfd - 0.301449
+
+TextureFiltr_Mean_V8_3
+1
+./Out3x3_new.mfd - 0.29407
+
+TextureFiltr_Mean_V8_3
+1
+./Out3x3_new.mfd - 0.298719
+
+TextureFiltr_Mean_V8_3
+1
+./Out3x3_new.mfd - 0.309013
+
+TextureFiltr_Mean_V8_3_21
+1
+./Out3x3_new.mfd - 0.299818
+./Out5x5_new.mfd - 0.42655
+./Out7x7_new.mfd - 0.479728
+./Out9x9_new.mfd - 0.572067
+./Out11x11_new.mfd - 0.63686
+./Out13x13_new.mfd - 0.712292
+./Out15x15_new.mfd - 0.651719
+./Out17x17_new.mfd - 0.607216
+./Out19x19_new.mfd - 0.640962
+./Out21x21_new.mfd - 0.697942
+
+TextureFiltr_Mean_V8_3_sse
+1
+./Out3x3_new.mfd - 0.279552
+
+TextureFiltr_Mean_V8_3_sse
+1
+./Out3x3_new.mfd - 0.286674
+
+TextureFiltr_Mean_V8_sse4_3_21
+1
+./Out3x3_new.mfd - 0.000888411
+Percent wrong: 99.355%
+./Out5x5_new.mfd - 0.00115354
+Percent wrong: 99.332%
+./Out7x7_new.mfd - 0.000722867
+Percent wrong: 99.309%
+./Out9x9_new.mfd - 0.00119283
+Percent wrong: 99.286%
+./Out11x11_new.mfd - 0.000947222
+Percent wrong: 99.263%
+./Out13x13_new.mfd - 0.00117162
+Percent wrong: 99.240%
+./Out15x15_new.mfd - 0.00127197
+Percent wrong: 99.217%
+./Out17x17_new.mfd - 0.00130526
+Percent wrong: 99.194%
+./Out19x19_new.mfd - 0.00151052
+Percent wrong: 99.170%
+./Out21x21_new.mfd - 0.00157376
+Percent wrong: 99.147%
+
+TextureFiltr_Mean_V8_sse4_3_21
+1
+./Out3x3_new.mfd - 0.276989
+./Out5x5_new.mfd - 0.349564
+./Out7x7_new.mfd - 0.36123
+./Out9x9_new.mfd - 0.413496
+./Out11x11_new.mfd - 0.403104
+./Out13x13_new.mfd - 0.49253
+./Out15x15_new.mfd - 0.48596
+./Out17x17_new.mfd - 0.517998
+./Out19x19_new.mfd - 0.525307
+./Out21x21_new.mfd - 0.575298
+
+TextureFiltr_Mean_V8_avx_21
+1
+./Out21x21_new.mfd - 0.43142
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out3x3_new.mfd - 0.283676
+Percent wrong: 0.093%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out3x3_new.mfd - 0.285477
+Percent wrong: 0.093%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out3x3_new.mfd - 0.302856
+Percent wrong: 0.046%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out3x3_new.mfd - 0.272745
+Percent wrong: 0.023%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out3x3_new.mfd - 0.268755
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out3x3_new.mfd - 0.275574
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out3x3_new.mfd - 0.125352
+
+TextureFiltr_Mean_V8_sse4_Omp_3_21
+1
+./Out3x3_new.mfd - 0.27293
+./Out5x5_new.mfd - 0.336224
+./Out7x7_new.mfd - 0.333809
+./Out9x9_new.mfd - 0.394359
+./Out11x11_new.mfd - 0.414721
+./Out13x13_new.mfd - 0.493531
+./Out15x15_new.mfd - 0.493771
+./Out17x17_new.mfd - 0.523012
+./Out19x19_new.mfd - 0.522926
+./Out21x21_new.mfd - 0.583155
+2
+./Out3x3_new.mfd - 0.15421
+./Out5x5_new.mfd - 0.187586
+Percent wrong: 0.046%
+./Out7x7_new.mfd - 0.183734
+Percent wrong: 0.070%
+./Out9x9_new.mfd - 0.217817
+./Out11x11_new.mfd - 0.219291
+Percent wrong: 0.116%
+./Out13x13_new.mfd - 0.246032
+Percent wrong: 0.139%
+./Out15x15_new.mfd - 0.24846
+Percent wrong: 0.163%
+./Out17x17_new.mfd - 0.284126
+Percent wrong: 0.186%
+./Out19x19_new.mfd - 0.285091
+Percent wrong: 0.209%
+./Out21x21_new.mfd - 0.316761
+Percent wrong: 0.232%
+4
+./Out3x3_new.mfd - 0.124849
+./Out5x5_new.mfd - 0.104801
+Percent wrong: 0.139%
+./Out7x7_new.mfd - 0.159157
+Percent wrong: 0.209%
+./Out9x9_new.mfd - 0.123325
+Percent wrong: 0.279%
+./Out11x11_new.mfd - 0.145753
+Percent wrong: 0.348%
+./Out13x13_new.mfd - 0.138203
+Percent wrong: 0.418%
+./Out15x15_new.mfd - 0.215226
+Percent wrong: 0.488%
+./Out17x17_new.mfd - 0.153581
+Percent wrong: 0.557%
+./Out19x19_new.mfd - 0.154097
+Percent wrong: 0.627%
+./Out21x21_new.mfd - 0.20048
+Percent wrong: 0.697%
+8
+./Out3x3_new.mfd - 0.0815288
+Percent wrong: 0.115%
+./Out5x5_new.mfd - 0.0945077
+Percent wrong: 0.278%
+./Out7x7_new.mfd - 0.0983718
+Percent wrong: 0.418%
+./Out9x9_new.mfd - 0.113059
+Percent wrong: 0.464%
+./Out11x11_new.mfd - 0.111559
+Percent wrong: 0.813%
+./Out13x13_new.mfd - 0.120469
+Percent wrong: 0.975%
+./Out15x15_new.mfd - 0.11682
+Percent wrong: 0.975%
+./Out17x17_new.mfd - 0.134285
+Percent wrong: 1.301%
+./Out19x19_new.mfd - 0.136294
+Percent wrong: 1.463%
+./Out21x21_new.mfd - 0.143434
+Percent wrong: 1.626%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out5x5_new.mfd - 0.113076
+Percent wrong: 99.395%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out5x5_new.mfd - 0.119844
+Percent wrong: 99.395%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out5x5_new.mfd - 0.273828
+Percent wrong: 99.395%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out5x5_new.mfd - 0.285644
+Percent wrong: 99.290%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out5x5_new.mfd - 0.278795
+Percent wrong: 99.290%
+
+TextureFiltr_Mean_V8_3_sse_Omp
+1
+./Out5x5_new.mfd - 0.317871
+Percent wrong: 99.290%
+
+TextureFiltr_Mean_V8_sse4_Omp_3_21
+1
+./Out3x3_new.mfd - 0.339752
+./Out5x5_new.mfd - 0.352938
+./Out7x7_new.mfd - 0.347452
+./Out9x9_new.mfd - 0.412445
+./Out11x11_new.mfd - 0.454801
+./Out13x13_new.mfd - 0.472332
+./Out15x15_new.mfd - 0.469926
+./Out17x17_new.mfd - 0.519286
+./Out19x19_new.mfd - 0.525369
+./Out21x21_new.mfd - 0.580488
+2
+./Out3x3_new.mfd - 0.158616
+./Out5x5_new.mfd - 0.200403
+Percent wrong: 0.046%
+./Out7x7_new.mfd - 0.202111
+Percent wrong: 0.070%
+./Out9x9_new.mfd - 0.207241
+./Out11x11_new.mfd - 0.210334
+Percent wrong: 0.116%
+./Out13x13_new.mfd - 0.237711
+Percent wrong: 0.139%
+./Out15x15_new.mfd - 0.258808
+Percent wrong: 0.163%
+./Out17x17_new.mfd - 0.27429
+Percent wrong: 0.186%
+./Out19x19_new.mfd - 0.299727
+Percent wrong: 0.209%
+./Out21x21_new.mfd - 0.309654
+Percent wrong: 0.232%
+4
+./Out3x3_new.mfd - 0.111536
+./Out5x5_new.mfd - 0.108388
+Percent wrong: 0.139%
+./Out7x7_new.mfd - 0.140393
+Percent wrong: 0.209%
+./Out9x9_new.mfd - 0.166838
+Percent wrong: 0.279%
+./Out11x11_new.mfd - 0.125273
+Percent wrong: 0.348%
+./Out13x13_new.mfd - 0.138351
+Percent wrong: 0.418%
+./Out15x15_new.mfd - 0.138575
+Percent wrong: 0.488%
+./Out17x17_new.mfd - 0.152939
+Percent wrong: 0.557%
+./Out19x19_new.mfd - 0.169941
+Percent wrong: 0.627%
+./Out21x21_new.mfd - 0.169518
+Percent wrong: 0.697%
+8
+./Out3x3_new.mfd - 0.0815942
+Percent wrong: 0.115%
+./Out5x5_new.mfd - 0.0962447
+Percent wrong: 0.278%
+./Out7x7_new.mfd - 0.147641
+Percent wrong: 0.418%
+./Out9x9_new.mfd - 0.112828
+Percent wrong: 0.464%
+./Out11x11_new.mfd - 0.110846
+Percent wrong: 0.813%
+./Out13x13_new.mfd - 0.125485
+Percent wrong: 0.975%
+./Out15x15_new.mfd - 0.139908
+Percent wrong: 0.975%
+./Out17x17_new.mfd - 0.143657
+Percent wrong: 1.301%
+./Out19x19_new.mfd - 0.142264
+Percent wrong: 1.463%
+./Out21x21_new.mfd - 0.155847
+Percent wrong: 1.626%
+
+TextureFiltr_Mean_V8_21_sse_Omp
+1
+./Out21x21_new.mfd - 0.567652
+Percent wrong: 0.697%
+
+TextureFiltr_Mean_V8_21_sse_Omp
+1
+./Out21x21_new.mfd - 0.653128
+Percent wrong: 0.697%
+
+TextureFiltr_Mean_V8_21_sse_Omp
+1
+./Out21x21_new.mfd - 0.173842
+Percent wrong: 0.697%
+
+TextureFiltr_Mean_V8_21_sse_Omp
+1
+./Out21x21_new.mfd - 0.580347
+
+TextureFiltr_Mean_V8_21_sse_Omp
+1
+./Out21x21_new.mfd - 0.615475
+Percent wrong: 0.232%
+
+TextureFiltr_Mean_V8_21_sse_Omp
+1
+./Out21x21_new.mfd - 0.586954
+
+TextureFiltr_Mean_V8_sse4_Omp_3_21
+1
+./Out3x3_new.mfd - 0.27486
+./Out5x5_new.mfd - 0.337231
+./Out7x7_new.mfd - 0.339358
+./Out9x9_new.mfd - 0.387641
+./Out11x11_new.mfd - 0.392079
+./Out13x13_new.mfd - 0.445201
+./Out15x15_new.mfd - 0.451829
+./Out17x17_new.mfd - 0.527574
+./Out19x19_new.mfd - 0.520792
+./Out21x21_new.mfd - 0.576742
+2
+./Out3x3_new.mfd - 0.179951
+./Out5x5_new.mfd - 0.202055
+./Out7x7_new.mfd - 0.196175
+./Out9x9_new.mfd - 0.211459
+./Out11x11_new.mfd - 0.214253
+./Out13x13_new.mfd - 0.243806
+./Out15x15_new.mfd - 0.244692
+./Out17x17_new.mfd - 0.279559
+./Out19x19_new.mfd - 0.277162
+./Out21x21_new.mfd - 0.307158
+4
+./Out3x3_new.mfd - 0.0873116
+./Out5x5_new.mfd - 0.156603
+./Out7x7_new.mfd - 0.156679
+./Out9x9_new.mfd - 0.18478
+./Out11x11_new.mfd - 0.167045
+./Out13x13_new.mfd - 0.137885
+./Out15x15_new.mfd - 0.135396
+./Out17x17_new.mfd - 0.154608
+./Out19x19_new.mfd - 0.154144
+./Out21x21_new.mfd - 0.168261
+8
+./Out3x3_new.mfd - 0.0853851
+./Out5x5_new.mfd - 0.104153
+./Out7x7_new.mfd - 0.099119
+./Out9x9_new.mfd - 0.11557
+./Out11x11_new.mfd - 0.116959
+./Out13x13_new.mfd - 0.121779
+./Out15x15_new.mfd - 0.122723
+./Out17x17_new.mfd - 0.13424
+./Out19x19_new.mfd - 0.130481
+./Out21x21_new.mfd - 0.146474
